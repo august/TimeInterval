@@ -1,0 +1,21 @@
+{
+    "name": "august/time-interval",
+    "description": "A handy class to manage time intervals.",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "August Trometer",
+            "email": "August@foggynoggin.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "August\\TimeInterval": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
