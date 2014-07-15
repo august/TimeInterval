@@ -1,7 +1,9 @@
 {
     "name": "august/time-interval",
-    "description": "A handy class to manage time intervals.",
-    "license": "BSD-3-Clause",
+    "description": "A handy, easy-to-use class to manage time intervals.",
+    "license": "MIT",
+    "keywords": ["time","interval","second","minute","hour"],
+    "homepage": "http://github.com/August/TimeInterval",
     "authors": [
         {
             "name": "August Trometer",
